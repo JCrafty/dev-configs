@@ -1,0 +1,22 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File 'C:\webdev\Hackathon\index.html'" />
+    <option name="defaultScopeName" value="File 'C:\webdev\Hackathon\index.html'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\webdev\Hackathon\index.html'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js</mask>
+      <mask>*.db, *.contrib, *.keep</mask>
+      <mask>*.js, *html</mask>
+      <mask>*.js, *.html</mask>
+      <mask>*.java</mask>
+      <mask>*.contrib*</mask>
+    </recentFileMasks>
+  </component>
+</application>

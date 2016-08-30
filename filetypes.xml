@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="response" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
