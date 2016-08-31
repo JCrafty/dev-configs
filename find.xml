@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\webdev\Hackathon\index.html'" />
-    <option name="defaultScopeName" value="File 'C:\webdev\Hackathon\index.html'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\webdev\Hackathon\index.html'" />
+    <option name="customScope" value="File '[jta_afs13-auto] - ...\AFWG\afs\accounts\unit-tests\auto-transactions\app\auto\invest\summary\summary.controller.spec.js'" />
+    <option name="defaultScopeName" value="File '[jta_afs13-auto] - ...\AFWG\afs\accounts\unit-tests\auto-transactions\app\auto\invest\summary\summary.controller.spec.js'" />
+    <option name="SEARCH_SCOPE" value="File '[jta_afs13-auto] - ...\AFWG\afs\accounts\unit-tests\auto-transactions\app\auto\invest\summary\summary.controller.spec.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
