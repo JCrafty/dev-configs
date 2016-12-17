@@ -3,11 +3,11 @@
     <option name="customScope" value="File '[jta_afs13-auto] - ...\AFWG\afs\accounts\unit-tests\auto-transactions\app\auto\invest\summary\summary.controller.spec.js'" />
     <option name="defaultScopeName" value="File '[jta_afs13-auto] - ...\AFWG\afs\accounts\unit-tests\auto-transactions\app\auto\invest\summary\summary.controller.spec.js'" />
     <option name="SEARCH_SCOPE" value="File '[jta_afs13-auto] - ...\AFWG\afs\accounts\unit-tests\auto-transactions\app\auto\invest\summary\summary.controller.spec.js'" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -17,6 +17,7 @@
       <mask>*.js, *.html</mask>
       <mask>*.contrib*</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
