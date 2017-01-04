@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[jta_afs13-auto] - ...\AFWG\afs\accounts\unit-tests\auto-transactions\app\auto\invest\summary\summary.controller.spec.js'" />
-    <option name="defaultScopeName" value="File '[jta_afs13-auto] - ...\AFWG\afs\accounts\unit-tests\auto-transactions\app\auto\invest\summary\summary.controller.spec.js'" />
-    <option name="SEARCH_SCOPE" value="File '[jta_afs13-auto] - ...\AFWG\afs\accounts\unit-tests\auto-transactions\app\auto\invest\summary\summary.controller.spec.js'" />
+    <option name="customScope" value="Project 'jta_afs14-analytics20'" />
+    <option name="defaultScopeName" value="Project 'jta_afs14-analytics20'" />
+    <option name="SEARCH_SCOPE" value="Project 'jta_afs14-analytics20'" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
