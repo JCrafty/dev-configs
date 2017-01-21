@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="iife" value="(function(){&#10;  'use strict';&#10;&#10;  $END$&#10;}());" description="Immediately-Invoked Function Expressions" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

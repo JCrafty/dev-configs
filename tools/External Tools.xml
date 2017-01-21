@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Start JTA-AFS14-DEV" description="Start local alpha servers (apache, tomcat, AEM)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\jta-views\jta_afs14-dev\AFWG\afs\alp\start_alp.cmd" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/jta-views/jta_afs14-dev/AFWG/afs/alp" />
+    </exec>
+  </tool>
+</toolSet>
