@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="response" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
