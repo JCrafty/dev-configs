@@ -1,7 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="response" type="PLAIN_TEXT" />
+      <mapping pattern="clipboard_temp" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
